@@ -11,7 +11,7 @@ This project presents a sales data analysis of Blinkit (India's quick commerce p
 ## 📂 Files Included
 - `Blinkit_analysis.ipynb` – Python script for data cleaning and preprocessing
 - `blinkit dashboard (2)` – Power BI dashboard visualization
-- SQLQuer1.sql  
+- SQLQuery1.sql  
 - `Project_Report.pdf` – Summary of the project
 - `README.md` – This file
 
